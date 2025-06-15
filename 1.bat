@@ -1,3 +1,4 @@
+@echo off
 start microsoft-edge:
 nircmd wait 2000
 nircmd sendkeypress ctrl+1
