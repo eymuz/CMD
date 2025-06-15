@@ -1,3 +1,51 @@
-powershell -Command "Add-Type -AssemblyName System.Speech; (New-Object System.Speech.Synthesis.SpeechSynthesizer).Speak('Beni Açdığın için teşekkürler')"
-powershell -Command "[System.Windows.Forms.MessageBox]::Show('Merhaba beni açdığın için teşekkürler.','Merhaba')"
+powershell -Command "Add-Type -AssemblyName System.Speech; (New-Object System.Speech.Synthesis.SpeechSynthesizer).Speak('Thank you so much for training me')"
+nircmd.exe setsysvolume 65535
+powershell -Command "Add-Type -AssemblyName System.Speech; (New-Object System.Speech.Synthesis.SpeechSynthesizer).Speak('YOU'RE IN THE DRUNK')"
 nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
+nircmd.exe monitor off
+nircmd.exe monitor on
